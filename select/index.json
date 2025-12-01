@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sweet but Psycho",
+  "base_artist": "Ava Max",
+  "createdAt": "2025-12-01T12:10:50.730322Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Acoustic)",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/01_Sweet_but_Psycho_(Acoustic)_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Elijah Hill Remix)",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/02_Sweet_but_Psycho_(Elijah_Hill_Remix)_Ava_Max.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Kat Krazy Remix)",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/03_Sweet_but_Psycho_(Kat_Krazy_Remix)_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Leon Lour Remix)",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/04_Sweet_but_Psycho_(Leon_Lour_Remix)_Ava_Max.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Majestic Remix)",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/05_Sweet_but_Psycho_(Majestic_Remix)_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Paul Morrell Remix)",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/06_Sweet_but_Psycho_(Paul_Morrell_Remix)_Ava_Max.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sweet but Psycho (Paul Morrell Remix)",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/07_Sweet_but_Psycho_(Paul_Morrell_Remix)_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/08_Sweet_but_Psycho_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max, Cirkut",
+      "has_synced": true,
+      "path": "select/09_Sweet_but_Psycho_Ava_Max,_Cirkut.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/10_Sweet_but_Psycho_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/11_Sweet_but_Psycho_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sweet But Psycho",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/12_Sweet_But_Psycho_Ava_Max.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": true,
+      "path": "select/13_Sweet_but_Psycho_Ava_Max.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_but_Psycho_Ava_Max.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_02_Sweet_but_Psycho_Ava_Max.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_03_Sweet_but_Psycho_Ava_Max.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_04_Sweet_but_Psycho_Ava_Max.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Sweet but Psycho",
+      "artist": "Ava Max",
+      "has_synced": false,
+      "path": "select/pl_05_Sweet_but_Psycho_Ava_Max.txt"
+    }
+  ]
+}
