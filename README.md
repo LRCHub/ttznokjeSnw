@@ -1,0 +1,81 @@
+# Ava Max – Sweet but Psycho
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:07.73] Oh, she's sweet, but a psycho
+[00:10.12] A little bit psycho
+[00:12.11] At night she's screamin'
+[00:13.49] "I'm-ma-ma-ma out my mind"
+[00:15.31] Oh, she's hot, but a psycho
+[00:17.73] So left, but she's right though
+[00:19.77] At night, she's screamin'
+[00:20.95] "I'm-ma-ma-ma out my mind"
+[00:33.95] 
+[00:23.32] She'll make you curse, but she a blessin'
+[00:27.32] She'll rip your shirt, within a second
+[00:31.08] You'll be coming back, back for seconds
+[00:34.79] With your plate, you just can't help it
+[00:54.29] 
+[00:38.00] No, no
+[00:41.13] You'll play alo-o-ong
+[00:42.96] Let her lead you o-o-on
+[00:44.86] You'll be saying, "No, no"
+[00:48.59] Then saying, "Yes, yes, yes"
+[00:50.42] 'Cause, she messin' with your head
+[01:07.42] 
+[00:52.78] Oh, she's sweet, but a psycho
+[00:55.58] A little bit psycho
+[00:57.46] At night, she's screamin'
+[00:58.63] "I'm-ma-ma-ma out my mind"
+[01:00.53] Oh, she's hot, but a psycho
+[01:03.14] So left, but she's right though
+[01:05.17] At night, she's screamin'
+[01:06.35] "I'm-ma-ma-ma out my mind"
+[01:19.35] 
+[01:08.39] Grab a cop gun, kinda crazy
+[01:10.78] She's poison, but tasty
+[01:12.63] Yeah, people say, "Run, don't walk away"
+[01:15.66] 'Cause she's sweet, but a psycho
+[01:18.20] A little bit psycho
+[01:20.17] At night, she screamin'
+[01:21.38] "I'm-ma-ma-ma out my mind"
+[01:34.38] 
+[01:23.71] See, someone said, "Don't drink her potions"
+[01:27.57] She'll kiss your neck with no emotion
+[01:31.30] When she's mean, you know you love it
+[01:35.25] She tastes so sweet, don't sugarcoat it
+[01:54.75] 
+[01:38.44] No, no
+[01:41.45] You'll play alo-o-ong
+[01:43.37] Let her lead you o-o-on
+[01:45.37] You'll be saying, "No, no"
+[01:48.94] Then saying, "Yes, yes, yes"
+[01:50.87] 'Cause, she messin' with your head
+[02:07.87] 
+[01:53.47] Oh, she's sweet, but a psycho
+[01:56.08] A little bit psycho
+[01:57.93] At night, she's screamin'
+[01:59.33] "I'm-ma-ma-ma out my mind"
+[02:01.08] Oh, she's hot, but a psycho
+[02:03.56] So left, but she's right though
+[02:05.52] At night, she's screamin'
+[02:06.77] "I'm-ma-ma-ma out my mind"
+[02:19.77] 
+[02:08.82] Grab a cop gun, kinda crazy
+[02:11.06] She's poison, but tasty
+[02:13.10] Yeah, people say, "Run, don't walk away"
+[02:16.07] 'Cause she's sweet, but a psycho
+[02:18.63] A little bit psycho
+[02:20.56] At night, she's screamin'
+[02:21.86] "I'm-ma-ma-ma out my mind"
+[02:34.86] 
+[02:24.11] You're just like me, you're out your mind
+[02:28.19] I know it's strange, we're both the crazy kind
+[02:31.63] You're tellin' me that I'm insane
+[02:35.62] Boy, don't pretend that you don't love the pain
+[02:42.27] Oh, yeah
+[02:44.72] "I'm-ma-ma-ma out my mind"
+[02:47.53] Oh, oh
+[02:52.04] "I'm-ma-ma-ma out my mind"
+```
